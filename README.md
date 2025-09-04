@@ -5,21 +5,21 @@
 Mục tiêu là giảm số lượng chương trình và giúp mã hóa rút gọn hơn, nhưng điều này cũng khiến thời gian thực thi có thể chậm hơn so với việc tăng tốc độ phức tạp
 - **RISC(Reduced Instruction Set Computer)** là 1 kiến trúc máy tính với tập lệnh đơn giản và nhỏ gọn, mỗi lệnh chỉ thực thi 1 thao tác. Mục tiêu giảm khối lượng xử lý trên mỗi lệnh, từ đó tăng tốc độ và hiệu quả.Bộ xử lý RISC thường sử dụng kỹ thuật pipeline, chia lệnh thành nhiều giai đoạn để nhiều lệnh thực hiện đồng thời, giúp tăng hiệu suất và rút ngắn thời gian thực thi.
 ### 1.2.  Trình bày ưu điểm và nhược điểm của từng loại kiến trúc. 
-**- CISC**:
-**Ưu điểm**: 
+- **CISC(Complex Instruction Set Computer)**
+- **Ưu điểm**: 
 Kích thước mã giảm
 Tiết kiệm bộ nhớ
 Có khả năng thực hiện các lệnh phức tạp
-**Nhược điểm**:
+- **Nhược điểm**:
 Thực thi chậm hơn
 Thiết kế phức tạp
 Tiêu thụ điện năng cao
-**- RISC**:
-**Ưu điểm**: 
+- **RISC(Reduced Instruction Set Computer)**
+- **Ưu điểm**: 
 Tập lệnh đơn giản
 Hỗ trợ pipeline hiệu quả
 Tiêu thụ điện năng thấp
-**Nhược điểm**:
+- **Nhược điểm**:
 Chương trình dài hơn
 Khả năng thực hiện các lệnh phức tạp bị hạn chế
 ### 1.3.1. Cấu trúc tập lệnh
